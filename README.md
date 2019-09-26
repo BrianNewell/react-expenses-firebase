@@ -3,8 +3,10 @@
 Proof-of-Technology (POT) based upon React, Redux, Firebase Realtime Database, Firebase Cloud Hosting.
 
 ## Source Code / Screenshots / Demo
-
+https://github.com/BrianNewell/react-expenses-firebase
 https://react-expenses-firebase.firebaseapp.com
+
+![](react-expenses-firebase-demo.gif)
 
 ## Basic functionality includes:
 
