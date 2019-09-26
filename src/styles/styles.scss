@@ -1,0 +1,11 @@
+@import './components/loader';
+@import './components/feather';
+@import './components/login_page';
+
+@import './react-dates/_datepicker.css';
+@import './react-dates/react_dates_overrides.css';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+body {
+    font-size: .875rem;
+}
